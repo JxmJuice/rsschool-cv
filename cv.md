@@ -5,6 +5,7 @@
 **E-mail**: *pro100alex17@gmail.com* 
 
 ### Personal information
+Age: 17 y.o.\
 Young programmer with good comunicative skills, creativity and ability to work in team.
 I have a big interest in learning and getting necessary hard skills.
 
