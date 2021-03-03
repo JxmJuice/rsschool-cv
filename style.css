@@ -1,0 +1,52 @@
+html{
+    background-image: url(http://beloweb.ru/wp-content/uploads/2014/05/1234567105.jpg);
+    color:ivory;
+}
+
+header{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font: bold 40px sans-serif;
+    background-color: rgba(126, 86, 204,0.5);
+}
+img{
+    height: 275px;
+    width: 250x;
+}
+
+h2{
+text-align: center;
+background-color: rgba(129, 87, 212, 0.5);
+margin-left: 450px;
+margin-right: 450px;
+padding: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 32px;
+    background-color: rgba(187, 166, 230, 0.5);
+}
+
+h4{
+    font-size: 28px;
+    text-align: center;
+    background-color: rgba(187, 166, 230, 0.5);
+}
+main{
+font: normal 24px times, serif;
+}
+
+section{
+    padding: 10px;
+    text-align:center;
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: rgba(126, 86, 204,0.5);
+    line-height: 150%;
+}
+.code{
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: start;
+}
